@@ -40,8 +40,10 @@ Here are some ideas to get you started:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SnakeTuan/SnakeTuan/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SnakeTuan/SnakeTuan/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/SnakeTuan/SnakeTuan/github-contribution-grid-snake.svg" />
-</picture>
+</picture> -->
+
+![Snake animation](https://raw.githubusercontent.com/SnakeTuan/SnakeTuan/output/github-contribution-grid-snake-dark.svg)
