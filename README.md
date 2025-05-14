@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-- I’m a developer based in Vietnam, always curious and eager to expand my knowledge<br>
+- I live in Vietnam, always curious and eager to expand my knowledge<br>
 - I like building stuff. So besides the 9-5 job, I like spending time with side projects to help people around me :D<br>
 - You can reach out to me at: snaketuan@gmail.com 
 
