@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ## 💫 About Me:
-⚡ I’m a developer based in Vietnam, always curious and eager to expand my knowledge<br>
-🌱 I enjoy exploring new skills and technologies to keep growing both personally and professionally<br>
-📫 How to reach me: snaketuan@gmail.com
+- I’m a developer based in Vietnam, always curious and eager to expand my knowledge<br>
+- I like building stuff. So besides the 9-5 job, I like spending time with side projects to help people around me :D<br>
+- You can reach out to me at: snaketuan@gmail.com 
 
 
 ## 🌐 Socials:
@@ -26,8 +26,22 @@ Here are some ideas to get you started:
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) https://facebook.com/SnakeTuan <br>
 ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) https://x.com/SnakeTuan 
 
-## 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=Prometheus&logoColor=white)
+## 💻 Job & Tech Stack:
+- I'm working as a DevOps now. I helped build/configure systems that use big data and require high security, then monitor and maintain them. Even though I still code new features for using services if needed (reading their big codebase is kinda hard though haha), I worked with
+  - docker
+  - hadoop hdfs, gluster
+  - data ETL: airflow, trino, nifi
+  - db: mostly postgres
+  - monitor: grafana, victoria metrics, prometheus, zabbix
+- For side projects:
+  - NextJS, Tailwind, Shadcn
+  - db: I like Drizzle with Cloud DB, I will try IndexedDB/local storage too + sync of course
+  - authentication: clerk for ez use, don't like headedge haha, will try roll my own auth too
+  - next-intl for multi-language and currency (for now)
+  - payment: lemon squeezy or polar (idk yet)
+  - offline mode for page (localfirst build): serwist (maybe, I found it usable)
+ 
+
 ## 📊 GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=SnakeTuan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
