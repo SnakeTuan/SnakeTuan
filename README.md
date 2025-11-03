@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 💫 About Me:
+## About Me:
 - I live in Vietnam, always curious and eager to expand my knowledge<br>
 - I like building stuff. So besides the 9-5 job, I like spending time with side projects to help people around me :D<br>
 - You can reach out to me at: snaketuan@gmail.com 
 
 
-## 🌐 Socials:
+## Socials:
 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white) https://facebook.com/SnakeTuan <br>
 ![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white) https://x.com/SnakeTuan 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - offline mode for page (localfirst build): serwist (maybe, I found it usable)
  
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=SnakeTuan&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SnakeTuan&theme=transparent&hide_border=false)<br/>
